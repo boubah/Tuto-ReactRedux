@@ -13,4 +13,4 @@ const UserListItem = ({user, selectUser}) => {
   
 }
 
-export default UserListItem;
+export default UserListItem

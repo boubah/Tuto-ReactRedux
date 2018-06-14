@@ -14,4 +14,4 @@ const UserInfo = ({myActiveUser}) => {
     )
 }
 
-export default UserInfo;
+export default UserInfo
