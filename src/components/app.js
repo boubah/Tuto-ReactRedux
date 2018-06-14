@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import UserList from './users-list';
-import UserDetail from './user-detail';
+import UserList from '../containers/users-list';
+import UserDetail from '../containers/user-detail';
 
 export default class App extends Component {
   render() {
